@@ -2,5 +2,5 @@
 
 echo "hi";
 echo "hello";
-$a=10;
+$a=50;
 ?>
